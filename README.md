@@ -6,7 +6,7 @@ Unlock all missions in Stronghold Crusader.
 3. Clone this git or download the binary that corresponds to your OS (Windows/Linux). You can also recompile the source code `Stronghold.c`.
 4. Put this executable in the same directory as the `crusader.cfg` file.
 5. Open the cmd in this directory (right click/open in cmd) or typing cmd in the search bar.
-6. Type the name of the executable followed by the name of the file such as : `Stronghold_windows64.exe crusader.cfg`.
+6. Type the name of the executable followed by the name of the file such as : `Stronghold_windows64.exe crusader.cfg`. *A copy of the previous file is automatically made so you don't have to worry about problems. However the program therefore needs permissions to write in this specific directory or will fail.*
 7. Reopen the game and enjoy. All missions has been unlocked.
 
 Feel free to ask for help!
