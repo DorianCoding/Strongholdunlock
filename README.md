@@ -22,4 +22,6 @@ This software is just performing thoses changes automatically, and is also savin
 ## Information
 This software just unlocks all missions. As missions are a single-mode campaign, it is your pleasure or not to do missions. This software does not bring any cheats during a party, whatever single or multiplayer.
 Do not ***cheat to win***, because it is not a win, it is a **perfect fail**.
-
+# Stronghold crusader 2 unlock missions
+To unlock all missions in Stronghold Crusader 2 is way easier. On %userprofile%\Documents\Stronghold Crusader 2\Profiles, you have a file named : `campaign_manager_state.xml`.
+It is a xml file, you can just edit it on any text editor and change all false values to true (search and replace). And all missions will be unlocked!
