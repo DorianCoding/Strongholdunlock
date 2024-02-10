@@ -3,7 +3,7 @@
 [![Github stars](https://img.shields.io/github/stars/DorianCoding/Strongholdunlock.svg)](https://github.com/DorianCoding/Strongholdunlock/stargazers)
 <img alt="French flag" src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/fr.svg" width="25">
 
-**Stronghold Crusader games are the best medieval games that has ever existed so far. However they are aberrantly difficult. But, *there is always a solution*...
+**Stronghold Crusader games are the best medieval games that has ever existed so far. However they are aberrantly difficult. But, *there is always a solution*...**
 
 ----
 Unlock all missions in Stronghold Crusader and/or Stronghold Crusader 2 (unlock software).
